@@ -1,0 +1,53 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.Calculadora{
+    width: 290px;
+    height: 350px;
+    background-color: rgb(233, 233, 227);
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.cabezal{
+    width:290px ;
+    height: 70px;
+    padding-top: 8px;
+}
+
+button{
+    
+    padding: 15px;
+    margin: 2px;
+    background-color: rgb(92, 88, 88);
+    border-style: none;
+    
+}
+
+.teclas{
+   float: left;
+
+}
+
+#pantallaRes{
+    width: 280px;
+    height: 20px;
+    background-color: rgb(173, 167, 158);
+    padding-top: 10px;
+  
+}
+
+.operadores{
+    padding: 10px;
+  
+}
+
+#igual{
+    width: 280px;
+   
+}
+
